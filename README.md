@@ -52,7 +52,7 @@ Notarize multiple files
 Add badge to README
 After notarizing, add a verification badge to your README:
 
-[![xProof Verified](https://xproof.app/badge/YOUR_PROOF_ID)](https://xproof.app/proof/YOUR_PROOF_ID)
+[![xProof Verified](https://xproof.app/badge/{proof_id})](https://explorer.multiversx.com/transactions/{tx_hash})
 How it works
 Calculates SHA-256 hash of each file locally (files never leave your runner)
 Sends only the hash + filename to xProof API
