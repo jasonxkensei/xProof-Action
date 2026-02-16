@@ -1,4 +1,4 @@
-name: 'xProof Certify' 
+name: 'xProof Certify'
 description: 'Programmable software artifact certification. Hash locally, anchor on MultiversX blockchain, verify forever. Supply chain attestation for CI/CD pipelines.'
 author: 'xproof'
 branding:
