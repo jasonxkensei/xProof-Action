@@ -1,5 +1,5 @@
-name: 'xProof Certify'
-description: 'Programmable software artifact certification. Hash locally, anchor on MultiversX blockchain, verify forever. Supply chain attestation for CI/CD pipelines.'
+name: 'xProof'
+description: 'Proof primitive for agents & humans on MultiversX. Anchor CI/CD artifacts and agent outputs on-chain.'
 author: 'xproof'
 branding:
   icon: 'shield'
