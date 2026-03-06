@@ -1,5 +1,3 @@
-[![View on GitHub Marketplace](https://img.shields.io/badge/GitHub%20Marketplace-xProof%20Certify-green?logo=github)](https://github.com/marketplace/actions/xproof-certify)
-
 # xProof Certify — GitHub Action
 
 > **Every build you ship without proof is a build anyone can claim.**
